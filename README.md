@@ -1,12 +1,6 @@
 ## Hi there 👋 I'm Puji Astuti  
 
-🌟 Full-Stack Developer & UI/UX Designer with a passion for building impactful digital experiences.  
-🎨 I love combining design creativity with solid development skills to create user-friendly applications.  
-
----
-
-### 🔭 Currently Working On   
-- Designing creative visuals under my personal brand **NOMUREA**  
+Passionate about Full-Stack Developer and Design
 
 ---
 

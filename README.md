@@ -5,37 +5,16 @@
 
 ---
 
-### 🔭 Currently Working On  
-- Building a **KPI Tracking Application** with Laravel & React  
-- Designing creative visuals under my personal brand **Kreasilab**  
-
----
-
-### 🌱 Currently Learning  
-- Next.js & TypeScript  
-- Advanced UI/UX design in Figma  
-- Full-stack best practices with modern frameworks  
-
----
-
-### 👯 Looking to Collaborate On  
-- Open-source projects in web development  
-- UI/UX design systems  
-- Creative side projects with a mix of **tech + design**  
-
----
-
-### 💬 Ask Me About  
-- Full-stack web development (React, Laravel, Node.js)  
-- Tailwind CSS & modern frontend frameworks  
-- UI/UX design workflow with Figma & Canva  
+### 🔭 Currently Working On   
+- Designing creative visuals under my personal brand **NOMUREA**  
 
 ---
 
 ### 📫 How to Reach Me  
 - Email: **pujiastuti33@gmail.com**  
 - LinkedIn: [linkedin.com/in/puji-astuti55](https://www.linkedin.com/in/puji-astuti55)  
-
+- Discord: **puji6575**
+ 
 ---
 
 ### ⚡ Fun Fact  
@@ -51,6 +30,8 @@ I enjoy learning by doing, and I believe design + code together can create limit
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 

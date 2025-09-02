@@ -48,6 +48,9 @@ I enjoy learning by doing, and I believe design + code together can create limit
 <a href="https://nextjs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </a>

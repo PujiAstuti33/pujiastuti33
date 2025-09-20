@@ -24,7 +24,7 @@ I enjoy learning by doing, and I believe design + code together can create limit
 </a>
 
 ---
-[![Coding Girl](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)](https://giphy.com)
+[![Coding Girl](https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87))](https://giphy.com)
 
 
 ### 🛠 Languages & Tools

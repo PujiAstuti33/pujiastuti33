@@ -24,12 +24,7 @@ I enjoy learning by doing, and I believe design + code together can create limit
 </a>
 
 ---
-
-## 👨‍💻 Illustration
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="400">
-</p>
-
+[![Ilustrasi](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 
 ### 🛠 Languages & Tools

@@ -24,7 +24,7 @@ I enjoy learning by doing, and I believe design + code together can create limit
 </a>
 
 ---
-[![Ilustrasi](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+[![Coding Girl](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)](https://giphy.com)
 
 
 ### 🛠 Languages & Tools

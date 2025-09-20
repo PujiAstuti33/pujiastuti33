@@ -25,6 +25,13 @@ I enjoy learning by doing, and I believe design + code together can create limit
 
 ---
 
+## 👨‍💻 Illustration
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="400">
+</p>
+
+
+
 ### 🛠 Languages & Tools
 
 <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">

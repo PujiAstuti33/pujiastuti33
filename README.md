@@ -67,3 +67,5 @@ Passionate about Full-Stack Developer and Design
 
  ![Puji's GitHub stats](https://github-readme-stats.vercel.app/api?username=PujiAstuti33&show_icons=true&theme=default&hide_border=false&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PujiAstuti33&layout=compact&theme=default&hide_border=false) 
 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=pujiastuti&theme=dark&hide_border=true)](https://git.io/streak-stats)
+

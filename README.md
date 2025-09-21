@@ -9,11 +9,6 @@ Passionate about Full-Stack Developer and Design
 
 ---
 
-### ⚡ Fun Fact  
-I enjoy learning by doing, and I believe design + code together can create limitless possibilities 🚀  
-
----
-
 ### 🤝 Connect with me  
 
 <a href="https://www.linkedin.com/in/puji-astuti55" target="_blank">

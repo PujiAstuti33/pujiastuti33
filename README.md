@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Puji Astuti  
 
-Passionate about Full-Stack Developer and Design
+Passionate about Full-Stack Developer
 
 ---
 

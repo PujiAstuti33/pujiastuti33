@@ -5,7 +5,7 @@ Passionate about Full-Stack Developer
 ---
 
 ### 📫 How to Reach Me  
-- Email: **pujiastuti33@gmail.com**  
+- Email: **pujii.astuti33@gmail.com**  
 
 ---
 
